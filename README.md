@@ -356,14 +356,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 | Level          | Feature                                                          | Status |
 | -------------- | ---------------------------------------------------------------- | ------ |
-| ✅ **Level 3** | Core bill splitting dApp with tests                              |
+| ✅ **Level 3** | Core bill splitting dApp with tests.                            |
 | ✅ **Level 4** | Real XLM transfers, CI/CD, mobile, SPLIT token, Freighter wallet |
 
 ---
 
 ## 👨‍💻 Author
 
-  Gyan Prakash Tiwari
+  Gyan Prakash Tiwari.
 - Built for:(https://risein.com)
   Built for: Stellar Journey to Mastery — Level 3 & Level 4
 
