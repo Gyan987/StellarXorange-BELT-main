@@ -157,7 +157,7 @@ pub fn has_paid(env, bill_id, participant) -> bool
 pub fn get_collected(env, bill_id) -> i128
 ```
 
----
+--
 
 ## 🔄 Inter-Contract Calls
 
